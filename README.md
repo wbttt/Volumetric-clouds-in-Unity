@@ -157,7 +157,7 @@ float HenyeyGreenStein(float ScatterAngle, float g)
 
 Each time we sample light energy, we multiply it by The Henyey-Greenstein phase function plus Beer's Law.
 
-$Light Energy = e^{-d}*HG$
+$$Light Energy = e^{-d}*HG$$
 
 
 If you want to have a better volumetric clouds, You could add the powder sugar effect which produces the dark edges facing the light.
