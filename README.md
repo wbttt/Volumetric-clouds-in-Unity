@@ -21,7 +21,7 @@ Use three different textures to render the volumetric clouds,
 
 3. Worley noise texture ( detail base cloud shape ) : 32^3 resolution
 
-   <img src="https://i.imgur.com/1bE5c57.png" width="200" height="200" / /><br/><br/>
+   <img src="https://i.imgur.com/1bE5c57.png" width="200" height="200" /><br/><br/>
 
    
 ## Cloud density model
@@ -127,7 +127,7 @@ float3 AmbientLighting(float heightFrac)
 
 
 
-<img src="https://i.imgur.com/PBokUuO.png" style="zoom:30%" /><br/>
+<img src="https://i.imgur.com/PBokUuO.png" width="350" height="350" /><br/>
 
 Beer’s law states that we can determine the amount of light reaching a point based on the optical thickness of the medium that it travels through.
 
