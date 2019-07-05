@@ -159,7 +159,6 @@ Each time we sample light energy, we multiply it by The Henyey-Greenstein phase 
 $$
 Light Energy = e^{-d}*HG
 $$
-<br/>
 
 If you want to have a better volumetric clouds, You could add the powder sugar effect which produces the dark edges facing the light.
 $$
