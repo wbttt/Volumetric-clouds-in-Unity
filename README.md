@@ -21,7 +21,7 @@ Use three different textures to render the volumetric clouds,
 
 3. Worley noise texture ( detail base cloud shape ) : 32^3 resolution
 
-   <img src="https://i.imgur.com/1bE5c57.png" style="zoom:50%" /><br/><br/>
+   <img src="https://i.imgur.com/1bE5c57.png" width="200" height="200" / /><br/><br/>
 
    
 ## Cloud density model
@@ -30,7 +30,7 @@ Use three different textures to render the volumetric clouds,
 
 This little map represents the weather settings that drive the clouds over our section of world map. The Red is coverage, Green is precipitation and blue is cloud type.
 
-<img src="https://i.imgur.com/tZCo0zx.png" style="zoom:70%" /><br/>
+<img src="https://i.imgur.com/tZCo0zx.png" width="200" height="200" /><br/>
 
 ```
 float3 WeatherData(float3 pos)
