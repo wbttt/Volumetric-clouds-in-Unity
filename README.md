@@ -9,13 +9,13 @@ Use three different textures to render the volumetric clouds,
 
 1. Weather texture :
 
-   <img src="https://i.imgur.com/AbQXfYe.png" style="zoom:65%" />
+   <img src="https://i.imgur.com/AbQXfYe.png" width="200" height="200" />
 
 
 
 2. Perlin-Worley texture ( base cloud shape ) : 128^3 resolution
 
-   <img src="https://i.imgur.com/rSJVdLP.png" style="zoom:36%" />
+   <img src="https://i.imgur.com/rSJVdLP.png" width="200" height="200" />
 
    
 
