@@ -127,7 +127,7 @@ float3 AmbientLighting(float heightFrac)
 
 
 
-<img src="https://i.imgur.com/PBokUuO.png" width="350" height="350" /><br/>
+<img src="https://i.imgur.com/PBokUuO.png" width="350" height="500" /><br/>
 
 Beer’s law states that we can determine the amount of light reaching a point based on the optical thickness of the medium that it travels through.
 
